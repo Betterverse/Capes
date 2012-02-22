@@ -1,0 +1,12 @@
+name: BetterCapes
+author: Betterverse
+main: me.betterverse.bettercapes.OKmain
+version: 1.0
+database: false
+description: >
+             Cape plugin for Bettercraft.net.
+commands:
+  capes:
+    description: Main command.
+    usage: |
+           Usage: /<command>
