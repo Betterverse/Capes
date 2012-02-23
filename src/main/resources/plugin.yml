@@ -1,6 +1,6 @@
 name: BetterCapes
 author: Betterverse
-main: me.betterverse.bettercapes.OKmain
+main: net.betterverse.bettercapes.OKmain
 version: 1.0
 database: false
 description: >
